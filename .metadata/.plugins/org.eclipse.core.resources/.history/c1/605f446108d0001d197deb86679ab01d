@@ -1,0 +1,6 @@
+package com.deloitte.im.repository;
+
+@Repository
+public interface PolicyRepository extends MongoRepository<Policy, String>{
+
+}

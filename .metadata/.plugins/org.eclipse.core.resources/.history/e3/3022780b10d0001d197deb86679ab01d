@@ -1,0 +1,5 @@
+package com.deloitte.im.service;
+
+public interface UserService {
+
+}

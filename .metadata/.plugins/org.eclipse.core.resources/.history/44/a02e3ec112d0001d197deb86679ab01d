@@ -1,0 +1,8 @@
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=Insurance-portal
+server.port=3300
+spring.application.name=insurance-user
+policy.service.url = http://localhost:2712/insurance/policy
+spring.main.allow-bean-definition-overriding=true
+spring.mvc.pathmatch.matching-strategy=ant-path-matcher

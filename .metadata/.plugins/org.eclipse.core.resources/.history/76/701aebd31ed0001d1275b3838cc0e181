@@ -1,0 +1,5 @@
+package com.deloitte.im.config;
+
+public class SwaggerConfig {
+
+}
