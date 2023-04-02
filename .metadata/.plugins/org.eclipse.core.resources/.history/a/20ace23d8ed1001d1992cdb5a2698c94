@@ -1,0 +1,83 @@
+package com.deloitte.im.controller;
+
+import static org.junit.jupiter.api.Assertions.fail;
+import static org.mockito.ArgumentMatchers.any;
+import static org.mockito.Mockito.when;
+
+import java.util.ArrayList;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
+import org.mockito.junit.jupiter.MockitoExtension;
+import org.springframework.http.ResponseEntity;
+
+import com.deloitte.im.model.Policy;
+import com.deloitte.im.model.User;
+import com.deloitte.im.service.UserService;
+
+
+@ExtendWith(MockitoExtension.class)
+class UserControllerTest {
+	
+	@Mock
+    private UserService userService;
+	
+	@InjectMocks
+	private UserController userController;
+	
+	private User testUser;
+	
+	@BeforeEach
+    public void setUp() {
+        MockitoAnnotations.openMocks(this);
+        testUser = new User("1", "John", "Doe", "john.doe@example.com", "1234567890", "123 Main St", new ArrayList<>());        
+    }
+
+	@Test
+	void testCreateUser() {
+        
+        User user = new User();
+        user.setFirstName("John");
+        user.setLastName("Doe");
+        user.setEmail("john.doe@example.com");
+        user.setPhone("1234567890");
+        user.setAddress("123 Main St");
+        
+        ResponseEntity<User> responseEntity = userController.createUser(user);
+        
+        assertEquals(HttpStatus.CREATED, responseEntity.getStatusCode());
+        assertEquals(testUser, responseEntity.getBody());
+        
+        verify(userService, times(1)).createUser(any(User.class));
+    }
+
+	@Test
+	void testGetAllUsers() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGetUserById() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testUpdateUser() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testDeleteUser() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testAddPolicyToUser() {
+		fail("Not yet implemented");
+	}
+
+}

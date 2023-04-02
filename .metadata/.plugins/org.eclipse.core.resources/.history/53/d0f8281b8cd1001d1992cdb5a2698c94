@@ -1,0 +1,47 @@
+package com.deloitte.im.controller;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+import org.mockito.Mock;
+
+import com.deloitte.im.service.UserService;
+import com.deloitte.im.service.UserServiceImpl;
+
+class UserControllerTest {
+	
+	@Mock
+    private UserServiceImpl userServiceImpl;
+
+
+	@Test
+	void testCreateUser() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGetAllUsers() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGetUserById() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testUpdateUser() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testDeleteUser() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testAddPolicyToUser() {
+		fail("Not yet implemented");
+	}
+
+}

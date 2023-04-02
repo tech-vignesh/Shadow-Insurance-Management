@@ -1,0 +1,35 @@
+package com.deloitte.im.repository;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
+import org.mockito.junit.jupiter.MockitoExtension;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.data.mongo.DataMongoTest;
+
+import com.deloitte.im.model.User;
+
+@ExtendWith(MockitoExtension.class)
+@DataMongoTest
+class UserRepositoryTest {
+	
+	 @Autowired
+	 private UserRepository userRepository;
+
+
+	@Test
+	void testFindByEmail() {
+	
+		User user = new User();
+        user.setEmail("test@example.com");
+        userRepository.save(user);
+
+        // test findByEmail method
+        User foundUser = userRepository.findByEmail("test@example.com");
+        assertNotNull(foundUser);
+        assertEquals("test@example.com", foundUser.getEmail());
+	}
+
+}

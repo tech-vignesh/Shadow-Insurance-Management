@@ -27,6 +27,7 @@ import com.deloitte.im.exception.UserServiceException;
 import com.deloitte.im.model.User;
 import com.deloitte.im.service.UserService;
 
+import io.swagger.annotations.ApiOperation;
 import springfox.documentation.annotations.ApiIgnore;
 
 
@@ -47,8 +48,8 @@ public class UserController {
 	
 	/*
 	 * Creating An User
-	 * Request - Post request to add a new User
-	 * Response - A new user of type User will be created
+	 * Request - Post request to add a new User.
+	 * Response - A new user will be created.
 	 */
 	@PostMapping("/users")
 	public ResponseEntity<String> createUser(@RequestBody User user) {
@@ -69,8 +70,11 @@ public class UserController {
 
 	/*
 	 * Getting All Users
+	 * Request - Get request to get all existing Users.
+	 * Response - All the users will be displayed.
 	 */
 	@GetMapping("/users")
+	@ApiOperation(value = "Get All users", nickname = "getAllUsers")
 	public ResponseEntity<List<User>> getAllUsers() {
 
 		try {
@@ -86,6 +90,8 @@ public class UserController {
 
 	/*
 	 * Getting User By Id
+	 * Request - Get request to get a existing User with unique Id.
+	 * Response - User with specified id will be returned.
 	 */
 	@GetMapping("/users/{id}")
 	public ResponseEntity<User> getUserById(@PathVariable String id) {
@@ -98,6 +104,8 @@ public class UserController {
 
 	/*
 	 * Updating An User
+	 * Request - Put request to update a existing User with unique Id.
+	 * Response - User with specified if will be updated.
 	 */
 	@PutMapping("/users/{id}")
 	public ResponseEntity<String> updateUser(@PathVariable String id, @RequestBody User user) {
@@ -118,6 +126,8 @@ public class UserController {
 
 	/*
 	 * Deleting An User
+	 * Request - Delete request to delete a existing User with unique Id
+	 * Response - User with specified Id will be deleted.
 	 */
 	@DeleteMapping("/users/{id}")
 	public ResponseEntity<String> deleteUser(@PathVariable String id) {
@@ -142,9 +152,11 @@ public class UserController {
 
 	/*
 	 * Adding Policies To User
+	 * Request - Post request to add a new Policy with unique policyId to existing User with unique userId.
+	 * Response - new Policy with specified policyId will be created for the user with specified userId.
 	 */
 	@PostMapping("/users/policy")
-	public ResponseEntity<?> addPolicyToUser(@RequestParam("userId") String userId,
+	public ResponseEntity<?> addPolicyToUser(@RequestParam(value = "userId", required = false) String userId,
 			@RequestParam("policyId") String policyId) {
 
 		try {

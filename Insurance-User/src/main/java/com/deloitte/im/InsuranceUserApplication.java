@@ -11,7 +11,6 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 @EnableMongoRepositories
-@EnableSwagger2
 public class InsuranceUserApplication {
 
 	public static void main(String[] args) {

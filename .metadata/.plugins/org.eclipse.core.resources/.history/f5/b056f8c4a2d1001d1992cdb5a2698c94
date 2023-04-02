@@ -1,0 +1,32 @@
+package com.deloitte.im.repository;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+import com.deloitte.im.model.User;
+
+class UserRepositoryTest {
+	
+	 @Autowired
+	 private UserRepository userRepository;
+
+	@BeforeEach
+	void setUp() throws Exception {
+	}
+
+	@Test
+	void testFindByEmail() {
+	
+		User user = new User();
+        user.setEmail("test@example.com");
+        userRepository.save(user);
+
+        // test findByEmail method
+        User foundUser = userRepository.findByEmail("test@example.com");
+        assertNotNull(foundUser);
+        assertEquals("test@example.com", foundUser.getEmail());
+	}
+
+}

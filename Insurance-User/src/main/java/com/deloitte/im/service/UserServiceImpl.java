@@ -78,7 +78,7 @@ public class UserServiceImpl implements UserService {
 		tempUser.setPolicies(user.getPolicies());
 		userRepository.save(tempUser);
 		logger.info("User '{}' updated");
-		return ResponseEntity.ok("User with Id " + id + " updated!");
+		return ResponseEntity.ok("User with Id " + id + " updated!"); 
 	}
 
 	@Override

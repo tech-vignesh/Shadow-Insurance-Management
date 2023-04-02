@@ -1,0 +1,19 @@
+package com.deloitte.im.repository;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class UserRepositoryTest {
+
+	@BeforeEach
+	void setUp() throws Exception {
+	}
+
+	@Test
+	void testFindByEmail() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,42 @@
+swagger: "2.0"
+info:
+  title: CRUD Operations API
+  description: This API allows for basic CRUD (Create, Read, Update, Delete) operations on a database.
+  version: 1.0.0
+basePath: /api/v1
+schemes:
+  - http
+consumes:
+  - application/json
+produces:
+  - application/json
+
+paths:
+  /users:
+    get:
+      summary: Retrieve all items
+      description: Retrieve a list of all items in the database.
+      responses:
+        200:
+          description: OK
+          schema:
+            type: array
+            items:
+              $ref: "#/definitions/Item"
+    post:
+      summary: Create a new item
+      description: Create a new item in the database.
+      parameters:
+        - in: body
+          name: item
+          description: The item to create.
+          required: true
+          schema:
+            $ref: "#/definitions/Item"
+      responses:
+        201:
+          description: Created
+          schema:
+            $ref: "#/definitions/Item"
+
+  
