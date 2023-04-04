@@ -9,9 +9,6 @@ public class UserNotFoundException extends RuntimeException{
 	        super("User with id '"+id+"' not found");
 	    }
 
-	public UserNotFoundException(String message, Throwable cause) {
-		super(message, cause);
-	}
 	
 	
 	

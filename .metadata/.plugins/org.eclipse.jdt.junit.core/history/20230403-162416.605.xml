@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Insurance-User" project="Insurance-User" tests="21" started="21" failures="1" errors="0" ignored="0">
+  <testsuite name="com.deloitte.im.service.UserServiceImplTest" time="1.345" displayname="UserServiceImplTest" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]">
+    <testcase name="testAddPolicyToUserPolicyAlreadyExists" classname="com.deloitte.im.service.UserServiceImplTest" time="1.294" displayname="testAddPolicyToUserPolicyAlreadyExists()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testAddPolicyToUserPolicyAlreadyExists()]">
+      <failure>
+        <expected>400 BAD_REQUEST</expected>
+        <actual>200 OK</actual>
+        org.opentest4j.AssertionFailedError: expected: &lt;400 BAD_REQUEST&gt; but was: &lt;200 OK&gt;&#13;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)&#13;
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)&#13;
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)&#13;
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)&#13;
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1124)&#13;
+	at com.deloitte.im.service.UserServiceImplTest.testAddPolicyToUserPolicyAlreadyExists(UserServiceImplTest.java:212)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)&#13;
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)&#13;
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)&#13;
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)&#13;
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)&#13;
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)&#13;
+	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)&#13;
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)&#13;
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)&#13;
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)&#13;
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)&#13;
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)&#13;
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)&#13;
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)&#13;
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)&#13;
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#13;
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)&#13;
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)&#13;
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)&#13;
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)&#13;
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)&#13;
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)&#13;
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)&#13;
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)&#13;
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)&#13;
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)&#13;
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)&#13;
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)&#13;
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)&#13;
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)&#13;
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)&#13;
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)&#13;
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)&#13;
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)&#13;
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)&#13;
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)&#13;
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)&#13;
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)&#13;
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:84)&#13;
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testGetAllUsers" classname="com.deloitte.im.service.UserServiceImplTest" time="0.005" displayname="testGetAllUsers()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testGetAllUsers()]"/>
+    <testcase name="testUpdateUser" classname="com.deloitte.im.service.UserServiceImplTest" time="0.003" displayname="testUpdateUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testUpdateUser()]"/>
+    <testcase name="testGetUserByIdUserNotFound" classname="com.deloitte.im.service.UserServiceImplTest" time="0.006" displayname="testGetUserByIdUserNotFound()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testGetUserByIdUserNotFound()]"/>
+    <testcase name="testAddPolicyToUserPolicyNotFound" classname="com.deloitte.im.service.UserServiceImplTest" time="0.005" displayname="testAddPolicyToUserPolicyNotFound()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testAddPolicyToUserPolicyNotFound()]"/>
+    <testcase name="testAddPolicyToUser" classname="com.deloitte.im.service.UserServiceImplTest" time="0.002" displayname="testAddPolicyToUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testAddPolicyToUser()]"/>
+    <testcase name="testDeleteUserUserNotFound" classname="com.deloitte.im.service.UserServiceImplTest" time="0.002" displayname="testDeleteUserUserNotFound()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testDeleteUserUserNotFound()]"/>
+    <testcase name="testUpdateUserUserNotFound" classname="com.deloitte.im.service.UserServiceImplTest" time="0.003" displayname="testUpdateUserUserNotFound()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testUpdateUserUserNotFound()]"/>
+    <testcase name="testCreateUser" classname="com.deloitte.im.service.UserServiceImplTest" time="0.002" displayname="testCreateUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testCreateUser()]"/>
+    <testcase name="testAddPolicyToUserUserNotFound" classname="com.deloitte.im.service.UserServiceImplTest" time="0.002" displayname="testAddPolicyToUserUserNotFound()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testAddPolicyToUserUserNotFound()]"/>
+    <testcase name="testDeleteUser" classname="com.deloitte.im.service.UserServiceImplTest" time="0.01" displayname="testDeleteUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testDeleteUser()]"/>
+    <testcase name="testGetUserById" classname="com.deloitte.im.service.UserServiceImplTest" time="0.002" displayname="testGetUserById()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testGetUserById()]"/>
+    <testcase name="testCreateUserUserAlreadyExists" classname="com.deloitte.im.service.UserServiceImplTest" time="0.002" displayname="testCreateUserUserAlreadyExists()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testCreateUserUserAlreadyExists()]"/>
+  </testsuite>
+  <testsuite name="com.deloitte.im.controller.UserControllerTest" time="0.085" displayname="UserControllerTest" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]">
+    <testcase name="testGetAllUsers" classname="com.deloitte.im.controller.UserControllerTest" time="0.059" displayname="testGetAllUsers()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testGetAllUsers()]"/>
+    <testcase name="testUpdateUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.004" displayname="testUpdateUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testUpdateUser()]"/>
+    <testcase name="testAddPolicyToUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.007" displayname="testAddPolicyToUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testAddPolicyToUser()]"/>
+    <testcase name="testCreateUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.005" displayname="testCreateUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testCreateUser()]"/>
+    <testcase name="testDeleteUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.003" displayname="testDeleteUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testDeleteUser()]"/>
+    <testcase name="testGetUserById" classname="com.deloitte.im.controller.UserControllerTest" time="0.003" displayname="testGetUserById()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testGetUserById()]"/>
+  </testsuite>
+  <testsuite name="com.deloitte.im.InsuranceUserApplicationTests" time="0.021" displayname="InsuranceUserApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.InsuranceUserApplicationTests]">
+    <testcase name="contextLoads" classname="com.deloitte.im.InsuranceUserApplicationTests" time="0.02" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.InsuranceUserApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+  <testsuite name="com.deloitte.im.repository.UserRepositoryTest" time="0.132" displayname="UserRepositoryTest" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.repository.UserRepositoryTest]">
+    <testcase name="testFindByEmail" classname="com.deloitte.im.repository.UserRepositoryTest" time="0.132" displayname="testFindByEmail()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.repository.UserRepositoryTest]/[method:testFindByEmail()]"/>
+  </testsuite>
+</testrun>

@@ -8,9 +8,12 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
-@Data
+@Getter
+@Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Document(collection = "policies")
@@ -23,6 +26,9 @@ public class Policy {
 	private BigDecimal premiumAmount;
 	private Date startDate;
 	private Date endDate;
+	
+	
+	
 	
 	
 

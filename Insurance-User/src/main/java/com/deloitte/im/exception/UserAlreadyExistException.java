@@ -10,9 +10,6 @@ public class UserAlreadyExistException extends RuntimeException {
 		super("User with Email  '"+email+"' already exists");
 	}
 
-	public UserAlreadyExistException(String message, Throwable cause) {
-		super(message, cause);
-	}
 	
 	
 

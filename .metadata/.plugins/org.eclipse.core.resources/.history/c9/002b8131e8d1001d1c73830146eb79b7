@@ -1,0 +1,99 @@
+package com.deloitte.im.service;
+
+import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.when;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.junit.jupiter.MockitoExtension;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.client.RestTemplate;
+
+import com.deloitte.im.model.Policy;
+import com.deloitte.im.model.User;
+import com.deloitte.im.repository.UserRepository;
+
+@ExtendWith(MockitoExtension.class)
+class UserServiceImplTest {
+	
+	
+	@Mock
+    private UserRepository userRepository;
+
+    @Mock
+    private RestTemplate restTemplate;
+
+    @Mock
+    private Policy policy;
+
+    @InjectMocks
+    private UserServiceImpl userService;
+
+    private User user;
+
+    private String userId;
+
+    private String policyId;
+
+	@BeforeEach
+	void setUp() throws Exception {
+		User user = new User();
+		Policy policy = new Policy();
+		user.setId("1");
+		user.setFirstName("Vicky");
+		user.setLastName("Vignesh");
+		user.setEmail("v@g.com"); 
+		user.setPhone("1234567890");
+		user.setAddress("123 USA St, USA");
+		
+		List<Policy> policies = new ArrayList<>();
+		policy.setId("100");
+		policies.add(policy);
+		user.setPolicies(policies);
+		
+		userId = "1";
+        policyId = "100";
+	}
+
+	@Test
+	void testCreateUser() throws Exception {
+		when(userRepository.findByEmail("j@gmail.com")).thenReturn(user);
+        when(userRepository.save(user)).thenReturn(user);
+        ResponseEntity<String> response = userService.createUser(user);
+        assertEquals(HttpStatus.OK, response.getStatusCode()); 
+        assertEquals("User added with ID : 1", response.getBody());
+	}
+
+	@Test
+	void testGetAllUsers() throws Exception {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGetUserById() throws Exception {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testUpdateUser() throws Exception {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testDeleteUser() throws Exception {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testAddPolicyToUser() throws Exception {
+		fail("Not yet implemented");
+	}
+
+}

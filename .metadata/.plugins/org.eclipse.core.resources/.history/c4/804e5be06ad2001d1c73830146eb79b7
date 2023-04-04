@@ -1,0 +1,9 @@
+package com.deloitte.im.exception;
+
+public class PolicyAlreadyExistsException extends Exception {
+
+	public PolicyAlreadyExistsException(String message) {
+		super(message);
+	}
+
+}

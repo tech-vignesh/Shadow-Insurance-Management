@@ -1,0 +1,13 @@
+package com.deloitte.im.exception;
+
+public class PolicyAlreadyExistsException extends RuntimeException {
+
+	public PolicyAlreadyExistsException(String policyId, String userId) {
+		super("Policy with Id " + policyId + " is already added to user with Id " + userId + "!");
+	}
+	
+	
+	
+	
+
+}

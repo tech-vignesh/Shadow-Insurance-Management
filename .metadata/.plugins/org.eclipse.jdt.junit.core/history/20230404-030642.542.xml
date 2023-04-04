@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="UserControllerTest" project="Insurance-User" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="com.deloitte.im.controller.UserControllerTest" time="2.224" displayname="UserControllerTest" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]">
+    <testcase name="testGetAllUsers" classname="com.deloitte.im.controller.UserControllerTest" time="2.111" displayname="testGetAllUsers()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testGetAllUsers()]"/>
+    <testcase name="testUpdateUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.031" displayname="testUpdateUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testUpdateUser()]"/>
+    <testcase name="testAddPolicyToUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.011" displayname="testAddPolicyToUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testAddPolicyToUser()]"/>
+    <testcase name="testCreateUserUserAlreadyExistException" classname="com.deloitte.im.controller.UserControllerTest" time="0.049" displayname="testCreateUserUserAlreadyExistException()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testCreateUserUserAlreadyExistException()]"/>
+    <testcase name="testCreateUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.005" displayname="testCreateUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testCreateUser()]"/>
+    <testcase name="testDeleteUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.005" displayname="testDeleteUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testDeleteUser()]"/>
+    <testcase name="testGetUserById" classname="com.deloitte.im.controller.UserControllerTest" time="0.005" displayname="testGetUserById()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testGetUserById()]"/>
+  </testsuite>
+</testrun>

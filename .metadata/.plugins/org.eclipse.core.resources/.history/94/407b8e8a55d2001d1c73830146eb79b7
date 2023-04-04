@@ -1,0 +1,127 @@
+package com.deloitte.im.service;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
+
+import com.deloitte.im.exception.PolicyAlreadyExistsException;
+import com.deloitte.im.exception.UserAlreadyExistException;
+import com.deloitte.im.exception.UserNotFoundException;
+import com.deloitte.im.exception.UserServiceException;
+import com.deloitte.im.model.Policy;
+import com.deloitte.im.model.User;
+import com.deloitte.im.repository.UserRepository;
+
+@Service
+public class UserServiceImpl implements UserService {
+
+	@Autowired
+	private RestTemplate restTemplate;
+
+	@Autowired
+	private UserRepository userRepository;
+
+	@Value("${policy.service.url}")
+	private String policyUrl;
+
+	private static final Logger logger = LoggerFactory.getLogger(UserServiceImpl.class);
+
+	@Override
+	public ResponseEntity<String> createUser(User user) {
+		User existingUser = userRepository.findByEmail(user.getEmail());
+		if (existingUser != null) {
+			logger.warn("Found existing User");
+			throw new UserAlreadyExistException(user.getEmail());
+		}
+		userRepository.save(user);
+		logger.info("User Created");
+		return ResponseEntity.ok("User added with ID : " + user.getId());
+	}
+
+	@Override
+	public ResponseEntity<List<User>> getAllUsers() {
+		List<User> lst = userRepository.findAll();
+		return ResponseEntity.ok(lst);
+	}
+
+	@Override
+	public ResponseEntity<User> getUserById(String id) {
+		User user = userRepository.findById(id).orElse(null);
+		if (user == null) {
+			logger.error("User with id '{}' unavailable", id);
+			throw new UserNotFoundException(id);
+		}
+		logger.info("User with Id '{}' found", id);
+		return ResponseEntity.ok(user);
+
+	}
+
+	@Override
+	public ResponseEntity<String> updateUser(String id, User user) {
+		User tempUser = userRepository.findById(id).orElse(null);
+		if (tempUser == null) {
+			logger.warn("User with Id '{}' unavailable");
+			throw new UserNotFoundException(id);
+		}
+		tempUser.setFirstName(user.getFirstName());
+		tempUser.setLastName(user.getLastName());
+		tempUser.setEmail(user.getEmail());
+		tempUser.setPhone(user.getPhone());
+		tempUser.setAddress(user.getAddress());
+		tempUser.setPolicies(user.getPolicies());
+		userRepository.save(tempUser);
+		logger.info("User '{}' updated");
+		return ResponseEntity.ok("User with Id " + id + " updated!"); 
+	}
+
+	@Override
+	public ResponseEntity<Boolean> deleteUser(String id) {
+		Optional<User> optionalUser = userRepository.findById(id);
+		if (optionalUser.isEmpty()) {
+			logger.warn("User with Id '{}' unavailable");
+			throw new UserNotFoundException(id);
+		}
+		userRepository.deleteById(id);
+		logger.info("User '{}' deleted");
+		return ResponseEntity.status(HttpStatus.OK).body(true);
+	}
+
+	@Override
+	public ResponseEntity<?> addPolicyToUser(String userId, String policyId) {
+		User user = userRepository.findById(userId).orElse(null);
+		if (user == null) {
+			logger.warn("User unavailable with id {}", userId);
+			throw new UserNotFoundException(userId);
+		}
+
+		Policy policy = restTemplate.getForObject(policyUrl + "/" + policyId, Policy.class);
+		if (policy == null) {
+			logger.error("policy {} not found", policyId); 
+			throw new UserServiceException("Policy with Id " + policyId + " not found!");
+		}
+
+		if (user.getPolicies().contains(policy)) {
+			logger.error("Existing policy of User {}", userId);
+			return new ResponseEntity<>(
+					"Policy with Id " + policyId + " is already added to user with Id " + userId + "!",
+					HttpStatus.BAD_REQUEST); 
+			throw new PolicyAlreadyExistsException(policyId,userId);
+		}
+
+		user.getPolicies().add(policy);
+		logger.info("policy added");
+		userRepository.save(user);
+		logger.info("User updated with policy");
+
+		return ResponseEntity.ok("Policy with Id " + policyId + " added to user with id " + userId);
+	}
+
+}

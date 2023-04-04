@@ -4,6 +4,8 @@ import java.util.List;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Pattern;
+import javax.validation.constraints.Size;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.DBRef;
@@ -11,9 +13,12 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
-@Data
+@Getter
+@Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Document(collection = "users")
@@ -33,6 +38,8 @@ public class User {
 	private String email;
 	
 	@NotNull(message = "Phone number Cannot be null")
+	@Pattern(regexp = "^[0-9]*$", message = "Phone number should be numeric")
+	@Size(min=10,max=10,message = "Phone number should have 10 characters")
 	private String phone;
 	
 	@NotNull(message = "Address Cannot be null")
@@ -45,5 +52,8 @@ public class User {
 	public void addPolicy(Policy policy) {
 	    policies.add(policy);
 	}
+
+	
+	
 }
 

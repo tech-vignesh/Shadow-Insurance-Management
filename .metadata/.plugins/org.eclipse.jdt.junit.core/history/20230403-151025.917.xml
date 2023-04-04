@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Insurance-User" project="Insurance-User" tests="17" started="17" failures="0" errors="0" ignored="0">
+  <testsuite name="com.deloitte.im.service.UserServiceImplTest" time="2.565" displayname="UserServiceImplTest" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]">
+    <testcase name="testGetAllUsers" classname="com.deloitte.im.service.UserServiceImplTest" time="2.459" displayname="testGetAllUsers()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testGetAllUsers()]"/>
+    <testcase name="testUpdateUser" classname="com.deloitte.im.service.UserServiceImplTest" time="0.023" displayname="testUpdateUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testUpdateUser()]"/>
+    <testcase name="testGetUserByIdUserNotFound" classname="com.deloitte.im.service.UserServiceImplTest" time="0.012" displayname="testGetUserByIdUserNotFound()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testGetUserByIdUserNotFound()]"/>
+    <testcase name="testAddPolicyToUser" classname="com.deloitte.im.service.UserServiceImplTest" time="0.013" displayname="testAddPolicyToUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testAddPolicyToUser()]"/>
+    <testcase name="testUpdateUserUserNotFound" classname="com.deloitte.im.service.UserServiceImplTest" time="0.005" displayname="testUpdateUserUserNotFound()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testUpdateUserUserNotFound()]"/>
+    <testcase name="testCreateUser" classname="com.deloitte.im.service.UserServiceImplTest" time="0.004" displayname="testCreateUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testCreateUser()]"/>
+    <testcase name="testDeleteUser" classname="com.deloitte.im.service.UserServiceImplTest" time="0.029" displayname="testDeleteUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testDeleteUser()]"/>
+    <testcase name="testGetUserById" classname="com.deloitte.im.service.UserServiceImplTest" time="0.005" displayname="testGetUserById()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testGetUserById()]"/>
+    <testcase name="testCreateUserUserAlreadyExists" classname="com.deloitte.im.service.UserServiceImplTest" time="0.005" displayname="testCreateUserUserAlreadyExists()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.service.UserServiceImplTest]/[method:testCreateUserUserAlreadyExists()]"/>
+  </testsuite>
+  <testsuite name="com.deloitte.im.controller.UserControllerTest" time="0.163" displayname="UserControllerTest" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]">
+    <testcase name="testGetAllUsers" classname="com.deloitte.im.controller.UserControllerTest" time="0.124" displayname="testGetAllUsers()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testGetAllUsers()]"/>
+    <testcase name="testUpdateUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.008" displayname="testUpdateUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testUpdateUser()]"/>
+    <testcase name="testAddPolicyToUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.012" displayname="testAddPolicyToUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testAddPolicyToUser()]"/>
+    <testcase name="testCreateUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.005" displayname="testCreateUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testCreateUser()]"/>
+    <testcase name="testDeleteUser" classname="com.deloitte.im.controller.UserControllerTest" time="0.005" displayname="testDeleteUser()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testDeleteUser()]"/>
+    <testcase name="testGetUserById" classname="com.deloitte.im.controller.UserControllerTest" time="0.005" displayname="testGetUserById()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.controller.UserControllerTest]/[method:testGetUserById()]"/>
+  </testsuite>
+  <testsuite name="com.deloitte.im.InsuranceUserApplicationTests" time="0.03" displayname="InsuranceUserApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.InsuranceUserApplicationTests]">
+    <testcase name="contextLoads" classname="com.deloitte.im.InsuranceUserApplicationTests" time="0.03" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.InsuranceUserApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+  <testsuite name="com.deloitte.im.repository.UserRepositoryTest" time="0.257" displayname="UserRepositoryTest" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.repository.UserRepositoryTest]">
+    <testcase name="testFindByEmail" classname="com.deloitte.im.repository.UserRepositoryTest" time="0.257" displayname="testFindByEmail()" uniqueid="[engine:junit-jupiter]/[class:com.deloitte.im.repository.UserRepositoryTest]/[method:testFindByEmail()]"/>
+  </testsuite>
+</testrun>

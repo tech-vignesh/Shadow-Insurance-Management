@@ -1,0 +1,44 @@
+package com.deloitte.im.service;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class UserServiceImplTest {
+
+	@BeforeEach
+	void setUp() throws Exception {
+	}
+
+	@Test
+	void testCreateUser() throws Exception {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGetAllUsers() throws Exception {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGetUserById() throws Exception {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testUpdateUser() throws Exception {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testDeleteUser() throws Exception {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testAddPolicyToUser() throws Exception {
+		fail("Not yet implemented");
+	}
+
+}

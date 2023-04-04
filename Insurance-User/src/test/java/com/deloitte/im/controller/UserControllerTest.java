@@ -2,11 +2,9 @@ package com.deloitte.im.controller;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
-import static org.junit.jupiter.api.Assertions.fail;
 import static org.mockito.ArgumentMatchers.any;
-import static org.mockito.Matchers.anyString;
+import static org.mockito.ArgumentMatchers.anyString;
 import static org.mockito.Mockito.doReturn;
-import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
@@ -26,6 +24,9 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
+import com.deloitte.im.exception.UserAlreadyExistException;
+import com.deloitte.im.exception.UserNotFoundException;
+import com.deloitte.im.exception.UserServiceException;
 import com.deloitte.im.model.Policy;
 import com.deloitte.im.model.User;
 import com.deloitte.im.service.UserService;
@@ -44,11 +45,11 @@ class UserControllerTest {
 
 	@BeforeEach
 	public void setUp() {
-		MockitoAnnotations.initMocks(this);
+		MockitoAnnotations.openMocks(this);
 	}
 
 	@Test
-	void testCreateUser() throws Exception {
+	public void testCreateUser() throws Exception {
 
 		User user = new User();
 		Policy policy = new Policy();
@@ -73,7 +74,27 @@ class UserControllerTest {
 	}
 
 	@Test
-	void testGetAllUsers() throws Exception {
+	public void testCreateUserUserAlreadyExistException() throws UserAlreadyExistException {
+		User user = new User("6nvkn1343", "vicky", "G", "v@g.com", "1234567890", "123 USA St", new ArrayList<>());
+		when(userService.createUser(any(User.class))).thenThrow(UserAlreadyExistException.class);
+
+		ResponseEntity<String> response = userController.createUser(user);
+
+		assertEquals(HttpStatus.CONFLICT, response.getStatusCode());
+	}
+
+	@Test
+	public void testCreateUser_UserServiceException() throws UserServiceException {
+		User user = new User("6nvkn1343", "vicky", "G", "v@g.com", "1234567890", "123 USA St", new ArrayList<>());
+		when(userService.createUser(any(User.class))).thenThrow(UserServiceException.class);
+
+		ResponseEntity<String> response = userController.createUser(user);
+
+		assertEquals(HttpStatus.INTERNAL_SERVER_ERROR, response.getStatusCode());
+	}
+
+	@Test
+	public void testGetAllUsers() throws Exception {
 		List<User> users = new ArrayList<>();
 		User user1 = new User("6nvkn1343", "vicky", "G", "v@g.com", "1234567890", "123 USA St", new ArrayList<>());
 		User user2 = new User("6jiojesij", "vignesh", "G", "g@v.com", "0987654321", "456 Dubai St", new ArrayList<>());
@@ -91,7 +112,17 @@ class UserControllerTest {
 	}
 
 	@Test
-	void testGetUserById() throws Exception {
+    public void testGetAllUsersUserServiceException() throws UserServiceException {
+        
+		when(userService.getAllUsers()).thenThrow(UserServiceException.class);
+
+        ResponseEntity<List<User>> response = userController.getAllUsers();
+
+        assertEquals(HttpStatus.INTERNAL_SERVER_ERROR, response.getStatusCode());
+    }
+
+	@Test
+	public void testGetUserById() throws Exception {
 
 		User mockUser = new User();
 		mockUser.setId("6vecdsc123");
@@ -111,7 +142,7 @@ class UserControllerTest {
 	}
 
 	@Test
-	void testUpdateUser() {
+	public void testUpdateUser() throws Exception {
 		User user = new User();
 		Policy policy = new Policy();
 		policy.setId("456fgh567vgbh");
@@ -137,7 +168,27 @@ class UserControllerTest {
 	}
 
 	@Test
-	void testDeleteUser() {
+	public void testUpdateUserUserNotFoundException() throws UserNotFoundException {
+		User user = new User("6nvkn1343", "vicky", "G", "v@g.com", "1234567890", "123 USA St", new ArrayList<>());
+		when(userService.updateUser(anyString(), any(User.class))).thenThrow(UserNotFoundException.class);
+
+		ResponseEntity<String> response = userController.updateUser("1", user);
+
+		assertEquals(HttpStatus.NOT_FOUND, response.getStatusCode());
+	}
+
+	@Test
+	public void testUpdateUserUserServiceException() throws UserServiceException {
+		User user = new User("6nvkn1343", "vicky", "G", "v@g.com", "1234567890", "123 USA St", new ArrayList<>());
+		when(userService.updateUser(anyString(), any(User.class))).thenThrow(UserServiceException.class);
+
+		ResponseEntity<String> response = userController.updateUser("1", user);
+
+		assertEquals(HttpStatus.INTERNAL_SERVER_ERROR, response.getStatusCode());
+	}
+
+	@Test
+	public void testDeleteUser() throws Exception{
 		
 	   when(userService.deleteUser("6kbvrhoij3455")).thenReturn(ResponseEntity.ok(true));
 
@@ -150,23 +201,49 @@ class UserControllerTest {
 	}
 
 	@Test
-	void testAddPolicyToUser() throws Exception {
+    public void testDeleteUserUserNotFoundException() throws UserNotFoundException, UserServiceException {
+        when(userService.deleteUser(anyString())).thenThrow(UserNotFoundException.class);
 
-		doReturn(ResponseEntity.ok().body("Policy added successfully")).when(userService).addPolicyToUser("1",
-				"100");
+        ResponseEntity<String> response = userController.deleteUser("1");
+
+        assertEquals(HttpStatus.NOT_FOUND, response.getStatusCode());
+    }
+
+	@Test
+    public void testDeleteUserUserServiceException() throws UserNotFoundException, UserServiceException {
+        when(userService.deleteUser(anyString())).thenThrow(UserServiceException.class);
+
+        ResponseEntity<String> response = userController.deleteUser("1");
+
+        assertEquals(HttpStatus.INTERNAL_SERVER_ERROR, response.getStatusCode());
+    }
+
+	@Test
+	public void testAddPolicyToUser() throws Exception {
+
+		doReturn(ResponseEntity.ok().body("Policy added successfully")).when(userService).addPolicyToUser("1", "100");
 
 		when(request.getParameter("userId")).thenReturn("1");
 		when(request.getParameter("policyId")).thenReturn("100");
 
 		ResponseEntity<?> response = userController.addPolicyToUser(request.getParameter("userId"),
 				request.getParameter("policyId"));
-		
+
 		verify(userService).addPolicyToUser("1", "100");
-		
+
 		assertNotNull(response);
-	    assertEquals(HttpStatus.OK, response.getStatusCode());
-	    assertEquals("Policy added successfully", response.getBody());
+		assertEquals(HttpStatus.OK, response.getStatusCode());
+		assertEquals("Policy added successfully", response.getBody());
 
 	}
+
+	@Test
+	public void testAddPolicyToUser_UserNotFoundException() throws UserNotFoundException {
+        when(userService.addPolicyToUser(anyString(), anyString())).thenThrow(UserNotFoundException.class);
+
+        ResponseEntity<?> response = userController.addPolicyToUser("1", "1");
+
+        assertEquals(HttpStatus.NOT_FOUND, response.getStatusCode());
+    }
 
 }
