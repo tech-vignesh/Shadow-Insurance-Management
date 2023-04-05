@@ -3,6 +3,8 @@ package com.deloitte.im.model;
 import java.util.List;
 
 import javax.validation.constraints.Email;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Size;
@@ -11,8 +13,9 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.DBRef;
 import org.springframework.data.mongodb.core.mapping.Document;
 
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
 import lombok.AllArgsConstructor;
-import lombok.Data;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -21,31 +24,43 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
+@ApiModel(description = "User definition")
 @Document(collection = "users")
 public class User {
 
+	@ApiModelProperty(notes = "Unique Id of user", position = 1)
 	@Id
-	private String id;
+	private String id; 
 	
-	@NotNull(message = "Firstname Cannot be null")
+	@ApiModelProperty(notes = "First name of the user", position = 2)
+	@Pattern(regexp = "^[A-Za-z]*$",message = "Only alphabets are allowed!!")
+	@Size(min=1, max=50, message="Firstname should be between 1-50 characters")
+	@NotBlank(message = "First name cannot be empty")
 	private String firstName;
 	
-	@NotNull(message = "Lastname Cannot be null")
+	@ApiModelProperty(notes = "Last name of the user")
+	@Pattern(regexp = "^[A-Za-z]*$",message = "Only alphabets are allowed!!")
+	@Size(min=1, max=50, message="lastname should be between 1-50 characters")
+	@NotBlank(message = "Last name cannot be empty")
 	private String lastName;
 	
-	@NotNull(message = "Email Cannot be null")
+	@ApiModelProperty(notes = "Email of the user")
+	@NotNull(message = "Email Cannot be null") 
 	@Email(message="Email not in format")
 	private String email;
 	
-	@NotNull(message = "Phone number Cannot be null")
+	@ApiModelProperty(notes = "Phone number of the user")
+	@NotNull(message = "Phone number Cannot be null") 
 	@Pattern(regexp = "^[0-9]*$", message = "Phone number should be numeric")
-	@Size(min=10,max=10,message = "Phone number should have 10 characters")
+	@Size(min=10,max=10,message = "Phone number should have 10 characters") 
 	private String phone;
 	
-	@NotNull(message = "Address Cannot be null")
+	@ApiModelProperty(notes = "Address of the user")
+	@NotEmpty(message = "Address Cannot be null")
 	private String address;
 	
 	@DBRef
+	@ApiModelProperty(notes = "List of policies of user")
 	@NotNull(message = "A user should have atleast one policy")
 	private List<Policy> policies;
 	

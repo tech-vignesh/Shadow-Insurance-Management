@@ -201,7 +201,7 @@ class UserControllerTest {
 	}
 
 	@Test
-    public void testDeleteUserUserNotFoundException() throws UserNotFoundException, UserServiceException {
+    public void testDeleteUserUserNotFoundException() throws UserNotFoundException {
         when(userService.deleteUser(anyString())).thenThrow(UserNotFoundException.class);
 
         ResponseEntity<String> response = userController.deleteUser("1");
@@ -210,14 +210,16 @@ class UserControllerTest {
     }
 
 	@Test
-    public void testDeleteUserUserServiceException() throws UserNotFoundException, UserServiceException {
+    public void testDeleteUserUserServiceException() throws UserServiceException {
         when(userService.deleteUser(anyString())).thenThrow(UserServiceException.class);
 
         ResponseEntity<String> response = userController.deleteUser("1");
 
         assertEquals(HttpStatus.INTERNAL_SERVER_ERROR, response.getStatusCode());
     }
-
+	
+	
+	
 	@Test
 	public void testAddPolicyToUser() throws Exception {
 

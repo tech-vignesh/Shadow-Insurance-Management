@@ -3071,3 +3071,897 @@ Caused by: java.io.EOFException: input contained no data
 2023-04-04 11:00:19,004 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-04-04 11:00:19,004 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2023-04-04 11:00:19,004 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:14:56,534 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:14:56,535 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:14:56,539 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:14:56,554 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:14:56,558 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:14:56,558 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:14:56,559 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:20:44,885 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:20:44,885 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:20:44,888 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:20:44,899 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:20:44,903 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:20:44,903 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:20:44,903 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:23:21,714 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:23:21,714 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:23:21,717 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:23:21,729 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:23:21,734 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:23:21,734 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:23:21,734 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:25:39,495 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:25:39,495 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:25:39,498 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:25:39,575 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:25:39,579 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:25:39,580 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:25:39,580 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:30:14,197 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:30:14,198 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:30:14,201 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:30:14,219 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:30:14,224 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:30:14,224 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:30:14,224 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:30:30,136 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:30:30,137 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:30:30,139 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:30:30,156 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:30:30,163 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:30:30,163 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:30:30,163 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:30:36,265 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:30:36,266 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:30:36,269 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:30:36,287 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:30:36,291 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:30:36,291 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:30:36,292 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:36:27,194 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:36:27,195 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:36:27,196 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:36:27,196 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:36:27,201 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:36:27,201 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:36:27,201 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:36:31,566 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:36:31,567 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:36:31,567 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:36:31,567 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:36:31,571 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:36:31,571 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:36:31,571 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:38:48,785 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:38:48,786 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:38:48,786 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:38:48,787 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:38:48,791 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:38:48,792 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:38:48,792 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:40:59,232 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:40:59,233 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:40:59,236 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:40:59,251 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:40:59,255 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:40:59,255 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:40:59,255 [Worker-266: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:41:32,176 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:41:32,177 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:41:32,179 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:41:32,205 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:41:32,212 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:41:32,212 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:41:32,212 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:45:32,813 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:45:32,813 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:45:32,816 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:45:32,832 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:45:32,836 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:45:32,837 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:45:32,837 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:51:56,473 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:51:56,474 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:51:56,477 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:51:56,492 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:51:56,499 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:51:56,499 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:51:56,500 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:54:09,206 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:54:09,206 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:54:09,210 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:54:09,220 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:54:09,225 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:54:09,225 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:54:09,225 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 11:56:52,018 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:56:52,018 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:56:52,021 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 11:56:52,050 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 11:56:52,055 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 11:56:52,055 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 11:56:52,056 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 12:00:43,083 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:00:43,084 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:00:43,087 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 12:00:43,097 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 12:00:43,101 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:00:43,101 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:00:43,101 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 12:01:21,388 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:01:21,388 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:01:21,394 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 12:01:21,441 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 12:01:21,448 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:01:21,448 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:01:21,449 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 12:02:45,390 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:02:45,390 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:02:45,393 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 12:02:45,412 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 12:02:45,418 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:02:45,418 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:02:45,418 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 12:06:14,466 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:06:14,467 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:06:14,470 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 12:06:14,488 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 12:06:14,494 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:06:14,494 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:06:14,494 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 12:07:02,166 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:07:02,166 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:07:02,169 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 12:07:02,183 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 12:07:02,188 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:07:02,188 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:07:02,188 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 12:07:20,471 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:07:20,471 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:07:20,474 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 12:07:20,487 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 12:07:20,493 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:07:20,493 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:07:20,493 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 12:11:34,923 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:11:34,924 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:11:34,926 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 12:11:34,946 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 12:11:34,952 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:11:34,952 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:11:34,952 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 12:11:55,434 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:11:55,438 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:11:55,441 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 12:11:55,456 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 12:11:55,461 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:11:55,461 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:11:55,461 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 12:17:09,204 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:17:09,205 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:17:09,207 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 12:17:09,222 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 12:17:09,227 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 12:17:09,227 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 12:17:09,227 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 18:52:05,471 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 18:52:05,473 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 18:52:05,477 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 18:52:05,535 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 18:52:05,541 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 18:52:05,541 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 18:52:05,541 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-04 18:53:24,713 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 18:53:24,714 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 18:53:24,717 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 18:53:24,757 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-04 18:53:24,763 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 18:53:24,763 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-04 18:53:24,763 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 11:53:39,503 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 11:53:39,504 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 11:53:39,508 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 11:53:39,624 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 11:53:39,629 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 11:53:39,630 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 11:53:39,630 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 12:00:32,627 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:00:32,628 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:00:32,632 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 12:00:32,682 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 12:00:32,687 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:00:32,687 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:00:32,687 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 12:03:09,882 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:03:09,882 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:03:09,883 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 12:03:09,883 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 12:03:09,888 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:03:09,888 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:03:09,889 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 12:54:26,432 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:54:26,432 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:54:26,436 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 12:54:26,457 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 12:54:26,463 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:54:26,463 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:54:26,463 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 12:55:00,052 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:55:00,053 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:55:00,056 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 12:55:00,148 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 12:55:00,154 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:55:00,154 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:55:00,154 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 12:55:22,997 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:55:22,997 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:55:23,000 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 12:55:23,082 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 12:55:23,087 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:55:23,088 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:55:23,088 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 12:55:43,975 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:55:43,975 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:55:43,979 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 12:55:44,080 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 12:55:44,087 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:55:44,087 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:55:44,088 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 12:57:43,367 [Worker-348: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:57:43,367 [Worker-348: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:57:43,370 [Worker-348: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 12:57:43,393 [Worker-348: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 12:57:43,398 [Worker-348: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:57:43,398 [Worker-348: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:57:43,398 [Worker-348: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 12:59:39,750 [Worker-351: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:59:39,750 [Worker-351: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:59:39,754 [Worker-351: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 12:59:39,771 [Worker-351: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 12:59:39,776 [Worker-351: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 12:59:39,776 [Worker-351: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 12:59:39,776 [Worker-351: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 13:01:00,982 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 13:01:00,982 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 13:01:00,985 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 13:01:01,001 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 13:01:01,006 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 13:01:01,006 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 13:01:01,006 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 13:01:31,081 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 13:01:31,081 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 13:01:31,113 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 13:01:31,130 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 13:01:31,138 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 13:01:31,138 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 13:01:31,139 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 13:05:30,024 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 13:05:30,025 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 13:05:30,028 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 13:05:30,048 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 13:05:30,053 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 13:05:30,053 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 13:05:30,053 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 13:12:51,886 [Worker-361: Launching Insurance-User] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 13:12:51,886 [Worker-361: Launching Insurance-User] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 13:12:51,890 [Worker-361: Launching Insurance-User] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 13:12:51,915 [Worker-361: Launching Insurance-User] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 13:12:51,920 [Worker-361: Launching Insurance-User] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 13:12:51,921 [Worker-361: Launching Insurance-User] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 13:12:51,921 [Worker-361: Launching Insurance-User] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 14:42:58,265 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 14:42:58,266 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 14:42:58,269 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 14:42:58,286 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 14:42:58,291 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 14:42:58,291 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 14:42:58,291 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 14:49:46,470 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 14:49:46,470 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 14:49:46,474 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 14:49:46,547 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 14:49:46,554 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 14:49:46,555 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 14:49:46,555 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 14:49:57,581 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 14:49:57,581 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 14:49:57,584 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 14:49:57,598 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 14:49:57,602 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 14:49:57,603 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 14:49:57,603 [Worker-369: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:00:24,160 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:00:24,160 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:00:24,163 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:00:24,187 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:00:24,192 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:00:24,192 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:00:24,193 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:08:09,176 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:08:09,176 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:08:09,179 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:08:09,202 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:08:09,208 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:08:09,209 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:08:09,209 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:08:35,402 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:08:35,402 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:08:35,405 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:08:35,423 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:08:35,430 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:08:35,430 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:08:35,430 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:10:00,169 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:10:00,169 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:10:00,172 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:10:00,187 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:10:00,192 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:10:00,192 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:10:00,192 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:10:54,528 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:10:54,528 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:10:54,531 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:10:54,571 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:10:54,576 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:10:54,576 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:10:54,576 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:10:57,112 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:10:57,113 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:10:57,115 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:10:57,129 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:10:57,134 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:10:57,134 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:10:57,134 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:11:22,449 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:11:22,450 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:11:22,453 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:11:22,467 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:11:22,472 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:11:22,472 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:11:22,473 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:12:04,232 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:12:04,233 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:12:04,235 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:12:04,250 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:12:04,255 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:12:04,255 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:12:04,256 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:12:26,144 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:12:26,144 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:12:26,147 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:12:26,165 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:12:26,172 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:12:26,172 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:12:26,172 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:12:51,288 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:12:51,289 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:12:51,291 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:12:51,305 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:12:51,310 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:12:51,311 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:12:51,311 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:39:18,857 [Worker-389: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.deloitte:Insurance-User:0.0.1-SNAPSHOT @ C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\pom.xml.
+2023-04-05 15:39:20,825 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:39:20,826 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:39:20,829 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:39:20,829 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:39:20,834 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:39:20,834 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:39:20,834 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:39:21,672 [Worker-388: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar
+2023-04-05 15:39:21,786 [Worker-388: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar
+2023-04-05 15:39:21,796 [Worker-388: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-classic:1.2.3
+2023-04-05 15:39:23,317 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:39:23,318 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:39:23,321 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:39:23,349 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:39:23,355 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:39:23,355 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:39:23,355 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:41:55,512 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:41:55,512 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:41:55,514 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:41:55,515 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:41:55,527 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:41:55,527 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:41:55,528 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:42:06,864 [Worker-391: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:42:06,865 [Worker-391: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:42:06,866 [Worker-391: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:42:06,867 [Worker-391: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:42:06,880 [Worker-391: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:42:06,881 [Worker-391: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:42:06,881 [Worker-391: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:45:38,174 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:45:38,174 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:45:38,175 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:45:38,176 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:45:38,191 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:45:38,191 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:45:38,191 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:48:58,439 [Worker-402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:48:58,439 [Worker-402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:48:58,440 [Worker-402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:48:58,440 [Worker-402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:48:58,447 [Worker-402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:48:58,448 [Worker-402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:48:58,448 [Worker-402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:50:57,525 [Worker-398: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.deloitte:Insurance-User:0.0.1-SNAPSHOT @ C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\pom.xml.
+2023-04-05 15:50:59,133 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:50:59,134 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:50:59,225 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:50:59,226 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:50:59,231 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:50:59,231 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:50:59,231 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:51:00,840 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:51:00,841 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:51:00,844 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:51:00,866 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:51:00,871 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:51:00,871 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:51:00,872 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:52:10,879 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [345])
+2023-04-05 15:52:10,888 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-04-05 15:52:10,889 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-04-05 15:52:10,890 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-04-05 15:52:10,890 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-04-05 15:52:10,890 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-04-05 15:52:10,891 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-04-05 15:52:10,891 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-04-05 15:52:10,892 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-04-05 15:52:10,893 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-04-05 15:52:10,893 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-04-05 15:52:10,894 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-04-05 15:52:10,894 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-04-05 15:52:10,895 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-04-05 15:52:10,895 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-04-05 15:52:10,895 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-04-05 15:52:10,897 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-04-05 15:52:10,897 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-04-05 15:52:10,897 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-04-05 15:52:10,897 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-04-05 15:52:10,898 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-04-05 15:52:10,898 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-04-05 15:52:10,899 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-04-05 15:52:10,899 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-04-05 15:52:10,900 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-04-05 15:52:10,901 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-04-05 15:52:10,902 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-04-05 15:52:10,903 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-04-05 15:52:10,903 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-04-05 15:52:10,904 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-04-05 15:52:10,904 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-04-05 15:52:10,905 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-04-05 15:52:10,905 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-04-05 15:52:10,906 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-04-05 15:52:10,907 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-04-05 15:52:10,907 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-04-05 15:52:10,908 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-04-05 15:52:10,908 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-04-05 15:52:10,908 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-04-05 15:52:10,909 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-04-05 15:52:10,911 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [22])
+2023-04-05 15:52:10,914 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-04-05 15:52:10,914 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [584])
+2023-04-05 15:52:10,916 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\slf4j.api_1.7.36.jar
+2023-04-05 15:52:10,917 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [49])
+2023-04-05 15:52:10,919 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-04-05 15:52:10,919 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [47])
+2023-04-05 15:52:10,922 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ponvg\Downloads\sts-4.17.2.RELEASE\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-04-05 15:52:10,930 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User":
+2023-04-05 15:52:10,931 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2023-04-05 15:52:10,931 [Worker-403: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-04-05 15:52:24,247 [Worker-398: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User":
+2023-04-05 15:52:24,248 [Worker-398: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2023-04-05 15:52:24,248 [Worker-398: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-04-05 15:54:02,805 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:54:02,805 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:54:02,808 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:54:02,834 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:54:02,839 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:54:02,839 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:54:02,839 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:54:02,993 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:54:02,993 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:54:02,996 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:54:03,059 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:54:03,066 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:54:03,066 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:54:03,066 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:54:31,613 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:54:31,613 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:54:31,616 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:54:31,631 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:54:31,636 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:54:31,636 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:54:31,636 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:54:50,276 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:54:50,276 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:54:50,279 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:54:50,293 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:54:50,298 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:54:50,298 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:54:50,298 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:55:44,381 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:55:44,381 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:55:44,383 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:55:44,403 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:55:44,407 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:55:44,407 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:55:44,407 [Worker-399: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:58:29,890 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:58:29,890 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:58:29,891 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:58:29,896 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:58:29,903 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:58:29,904 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:58:29,904 [Worker-398: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:58:49,508 [Worker-406: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:58:49,508 [Worker-406: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:58:49,509 [Worker-406: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 15:58:49,526 [Worker-406: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:58:49,526 [Worker-406: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:58:49,526 [Worker-406: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:59:06,161 [Worker-408: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:59:06,162 [Worker-408: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:59:06,162 [Worker-408: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:59:06,163 [Worker-408: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:59:06,168 [Worker-408: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:59:06,169 [Worker-408: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:59:06,169 [Worker-408: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:59:12,442 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:59:12,443 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:59:12,444 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:59:12,444 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:59:12,450 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:59:12,450 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:59:12,450 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:59:13,495 [Worker-405: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:59:13,496 [Worker-405: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:59:13,496 [Worker-405: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:59:13,497 [Worker-405: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:59:13,503 [Worker-405: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:59:13,503 [Worker-405: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:59:13,504 [Worker-405: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 15:59:59,165 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:59:59,165 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:59:59,166 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:59:59,168 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 15:59:59,172 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 15:59:59,172 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 15:59:59,172 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:00:06,540 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:00:06,540 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:00:06,542 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 16:00:06,557 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:00:06,562 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:00:06,562 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:00:06,562 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:00:20,896 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:00:20,896 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:00:20,899 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 16:00:20,918 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:00:20,924 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:00:20,924 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:00:20,925 [Worker-404: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:12:10,290 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:12:10,291 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:12:10,291 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 16:12:10,305 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:12:10,312 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:12:10,312 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:12:10,312 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:15:22,552 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:15:22,552 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:15:22,553 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 16:15:22,559 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:15:22,566 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:15:22,566 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:15:22,566 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:15:34,138 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:15:34,139 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:15:34,139 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 16:15:34,152 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:15:34,152 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:15:34,152 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:16:03,371 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:16:03,371 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:16:03,372 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:16:03,372 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:16:03,379 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:16:03,379 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:16:03,379 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:16:09,442 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:16:09,443 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:16:09,444 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:16:09,445 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:16:09,450 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:16:09,450 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:16:09,450 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:19:41,684 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:19:41,685 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:19:41,685 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 16:19:41,692 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:19:41,698 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:19:41,698 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:19:41,698 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:20:09,435 [Worker-414: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:20:09,435 [Worker-414: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:20:09,436 [Worker-414: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:20:09,436 [Worker-414: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:20:09,441 [Worker-414: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:20:09,441 [Worker-414: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:20:09,441 [Worker-414: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:20:47,831 [Worker-415: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:20:47,831 [Worker-415: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:20:47,832 [Worker-415: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:20:47,833 [Worker-415: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:20:47,839 [Worker-415: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:20:47,841 [Worker-415: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:20:47,841 [Worker-415: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:24:32,795 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:24:32,795 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:24:32,796 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-05 16:24:32,821 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:24:32,821 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:24:32,821 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:28:30,838 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:28:30,838 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:28:30,839 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:28:30,839 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:28:30,844 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:28:30,844 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:28:30,844 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:28:58,551 [Worker-420: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User":
+2023-04-05 16:28:58,551 [Worker-420: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2023-04-05 16:28:58,552 [Worker-420: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-04-05 16:29:16,685 [Worker-421: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User":
+2023-04-05 16:29:16,685 [Worker-421: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2023-04-05 16:29:16,686 [Worker-421: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-04-05 16:29:51,771 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:29:51,771 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:29:51,773 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-04-05 16:29:51,780 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:29:51,782 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:29:51,783 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:29:51,783 [Worker-419: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:29:53,865 [Worker-424: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:29:53,865 [Worker-424: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:29:53,865 [Worker-424: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:29:53,865 [Worker-424: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-05 16:29:53,868 [Worker-424: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-05 16:29:53,868 [Worker-424: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-04-05 16:29:53,868 [Worker-424: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\src\test\resources
+2023-04-05 16:30:19,000 [Worker-422: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-05 16:30:19,157 [Worker-422: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.deloitte:Insurance-User:0.0.1-SNAPSHOT @ C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\pom.xml.
+2023-04-05 16:30:20,140 [Worker-422: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/main/java
+2023-04-05 16:30:20,140 [Worker-422: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:30:20,140 [Worker-422: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:30:20,141 [Worker-422: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/test/java
+2023-04-05 16:30:20,789 [Worker-422: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-05 16:30:34,650 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-validation:2.5.7
+2023-04-05 16:30:34,655 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter:2.5.7
+2023-04-05 16:30:34,660 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-logging:2.5.7
+2023-04-05 16:30:34,701 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for ch.qos.logback:logback-classic:1.2.7
+2023-04-05 16:30:34,706 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for ch.qos.logback:logback-core:1.2.7
+2023-04-05 16:30:34,711 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.logging.log4j:log4j-to-slf4j:2.14.1
+2023-04-05 16:30:34,716 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.logging.log4j:log4j-api:2.14.1
+2023-04-05 16:30:34,720 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.slf4j:jul-to-slf4j:1.7.32
+2023-04-05 16:30:34,724 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.annotation:jakarta.annotation-api:1.3.5
+2023-04-05 16:30:34,729 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.yaml:snakeyaml:1.28
+2023-04-05 16:30:34,733 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.validation:jakarta.validation-api:2.0.2
+2023-04-05 16:30:34,737 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.jboss.logging:jboss-logging:3.4.2.Final
+2023-04-05 16:30:34,741 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-data-mongodb:2.5.7
+2023-04-05 16:30:34,745 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mongodb:mongodb-driver-sync:4.2.3
+2023-04-05 16:30:34,749 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mongodb:bson:4.2.3
+2023-04-05 16:30:34,753 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mongodb:mongodb-driver-core:4.2.3
+2023-04-05 16:30:34,758 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.data:spring-data-mongodb:3.2.7
+2023-04-05 16:30:34,763 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-tx:5.3.13
+2023-04-05 16:30:34,767 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-context:5.3.13
+2023-04-05 16:30:34,771 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-beans:5.3.13
+2023-04-05 16:30:34,774 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-expression:5.3.13
+2023-04-05 16:30:34,778 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.data:spring-data-commons:2.5.7
+2023-04-05 16:30:34,782 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-web:2.5.7
+2023-04-05 16:30:34,786 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-json:2.5.7
+2023-04-05 16:30:34,790 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-databind:2.12.5
+2023-04-05 16:30:34,794 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-core:2.12.5
+2023-04-05 16:30:34,797 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.12.5
+2023-04-05 16:30:34,801 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.12.5
+2023-04-05 16:30:34,805 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.module:jackson-module-parameter-names:2.12.5
+2023-04-05 16:30:34,809 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-tomcat:2.5.7
+2023-04-05 16:30:34,812 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-web:5.3.13
+2023-04-05 16:30:34,816 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-webmvc:5.3.13
+2023-04-05 16:30:34,819 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-aop:5.3.13
+2023-04-05 16:30:34,823 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-devtools:2.5.7
+2023-04-05 16:30:34,827 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot:2.5.7
+2023-04-05 16:30:34,830 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-autoconfigure:2.5.7
+2023-04-05 16:30:34,834 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-swagger2:2.9.2
+2023-04-05 16:30:34,838 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.swagger:swagger-annotations:1.5.20
+2023-04-05 16:30:34,842 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.swagger:swagger-models:1.5.20
+2023-04-05 16:30:34,845 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-annotations:2.12.5
+2023-04-05 16:30:34,849 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-spi:2.9.2
+2023-04-05 16:30:34,853 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-core:2.9.2
+2023-04-05 16:30:34,857 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-schema:2.9.2
+2023-04-05 16:30:34,861 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-swagger-common:2.9.2
+2023-04-05 16:30:34,865 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-spring-web:2.9.2
+2023-04-05 16:30:34,869 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.google.guava:guava:20.0
+2023-04-05 16:30:34,873 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml:classmate:1.5.1
+2023-04-05 16:30:34,878 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.slf4j:slf4j-api:1.7.32
+2023-04-05 16:30:34,881 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE
+2023-04-05 16:30:34,886 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.plugin:spring-plugin-metadata:1.2.0.RELEASE
+2023-04-05 16:30:34,890 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mapstruct:mapstruct:1.2.0.Final
+2023-04-05 16:30:34,894 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-swagger-ui:2.9.2
+2023-04-05 16:30:34,898 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.projectlombok:lombok:1.18.22
+2023-04-05 16:30:34,903 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-test:2.5.7
+2023-04-05 16:30:34,907 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-test:2.5.7
+2023-04-05 16:30:34,912 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-test-autoconfigure:2.5.7
+2023-04-05 16:30:34,916 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.jayway.jsonpath:json-path:2.5.0
+2023-04-05 16:30:34,920 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.minidev:json-smart:2.4.7
+2023-04-05 16:30:34,924 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.minidev:accessors-smart:2.4.7
+2023-04-05 16:30:34,928 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.ow2.asm:asm:9.1
+2023-04-05 16:30:34,932 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.xml.bind:jakarta.xml.bind-api:2.3.3
+2023-04-05 16:30:34,936 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.activation:jakarta.activation-api:1.2.2
+2023-04-05 16:30:34,940 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.assertj:assertj-core:3.19.0
+2023-04-05 16:30:34,944 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.hamcrest:hamcrest:2.2
+2023-04-05 16:30:34,948 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter:5.7.2
+2023-04-05 16:30:34,952 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter-api:5.7.2
+2023-04-05 16:30:34,956 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apiguardian:apiguardian-api:1.1.0
+2023-04-05 16:30:34,960 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.opentest4j:opentest4j:1.2.0
+2023-04-05 16:30:34,964 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.platform:junit-platform-commons:1.7.2
+2023-04-05 16:30:34,968 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter-params:5.7.2
+2023-04-05 16:30:34,973 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter-engine:5.7.2
+2023-04-05 16:30:34,976 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.platform:junit-platform-engine:1.7.2
+2023-04-05 16:30:34,980 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mockito:mockito-core:3.9.0
+2023-04-05 16:30:34,984 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.bytebuddy:byte-buddy:1.10.22
+2023-04-05 16:30:34,989 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.bytebuddy:byte-buddy-agent:1.10.22
+2023-04-05 16:30:34,992 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.objenesis:objenesis:3.2
+2023-04-05 16:30:34,996 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mockito:mockito-junit-jupiter:3.9.0
+2023-04-05 16:30:35,000 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.skyscreamer:jsonassert:1.5.0
+2023-04-05 16:30:35,005 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.vaadin.external.google:android-json:0.0.20131108.vaadin1
+2023-04-05 16:30:35,009 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-core:5.3.13
+2023-04-05 16:30:35,013 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-jcl:5.3.13
+2023-04-05 16:30:35,016 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-test:5.3.13
+2023-04-05 16:30:35,020 [Worker-420: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.xmlunit:xmlunit-core:2.8.3
+2023-04-05 16:30:42,719 [Worker-405: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-05 16:30:42,900 [Worker-405: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.deloitte:Insurance-User:0.0.1-SNAPSHOT @ C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\pom.xml.
+2023-04-05 16:30:43,403 [Worker-405: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/main/java
+2023-04-05 16:30:43,403 [Worker-405: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:30:43,404 [Worker-405: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:30:43,404 [Worker-405: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/test/java
+2023-04-05 16:30:43,916 [Worker-405: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-05 16:31:14,400 [Worker-424: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User":
+2023-04-05 16:31:14,400 [Worker-424: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2023-04-05 16:31:14,400 [Worker-424: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-04-05 16:31:23,102 [Worker-426: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User":
+2023-04-05 16:31:23,103 [Worker-426: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2023-04-05 16:31:23,103 [Worker-426: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-04-05 16:31:47,929 [Worker-425: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-05 16:31:48,085 [Worker-425: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.deloitte:Insurance-User:0.0.1-SNAPSHOT @ C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\pom.xml.
+2023-04-05 16:31:48,602 [Worker-425: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/main/java
+2023-04-05 16:31:48,602 [Worker-425: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:31:48,602 [Worker-425: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:31:48,603 [Worker-425: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/test/java
+2023-04-05 16:31:49,268 [Worker-425: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-05 16:33:58,129 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-validation:2.5.7
+2023-04-05 16:33:58,133 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter:2.5.7
+2023-04-05 16:33:58,138 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-logging:2.5.7
+2023-04-05 16:33:58,141 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for ch.qos.logback:logback-classic:1.2.7
+2023-04-05 16:33:58,145 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for ch.qos.logback:logback-core:1.2.7
+2023-04-05 16:33:58,148 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.logging.log4j:log4j-to-slf4j:2.14.1
+2023-04-05 16:33:58,152 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.logging.log4j:log4j-api:2.14.1
+2023-04-05 16:33:58,156 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.slf4j:jul-to-slf4j:1.7.32
+2023-04-05 16:33:58,159 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.annotation:jakarta.annotation-api:1.3.5
+2023-04-05 16:33:58,163 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.yaml:snakeyaml:1.28
+2023-04-05 16:33:58,166 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.validation:jakarta.validation-api:2.0.2
+2023-04-05 16:33:58,170 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.jboss.logging:jboss-logging:3.4.2.Final
+2023-04-05 16:33:58,174 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-data-mongodb:2.5.7
+2023-04-05 16:33:58,177 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mongodb:mongodb-driver-sync:4.2.3
+2023-04-05 16:33:58,181 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mongodb:bson:4.2.3
+2023-04-05 16:33:58,184 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mongodb:mongodb-driver-core:4.2.3
+2023-04-05 16:33:58,188 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.data:spring-data-mongodb:3.2.7
+2023-04-05 16:33:58,191 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-tx:5.3.13
+2023-04-05 16:33:58,195 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-context:5.3.13
+2023-04-05 16:33:58,198 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-beans:5.3.13
+2023-04-05 16:33:58,202 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-expression:5.3.13
+2023-04-05 16:33:58,206 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.data:spring-data-commons:2.5.7
+2023-04-05 16:33:58,209 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-web:2.5.7
+2023-04-05 16:33:58,213 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-json:2.5.7
+2023-04-05 16:33:58,216 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-databind:2.12.5
+2023-04-05 16:33:58,220 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-core:2.12.5
+2023-04-05 16:33:58,223 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.12.5
+2023-04-05 16:33:58,227 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.12.5
+2023-04-05 16:33:58,231 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.module:jackson-module-parameter-names:2.12.5
+2023-04-05 16:33:58,235 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-tomcat:2.5.7
+2023-04-05 16:33:58,238 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-web:5.3.13
+2023-04-05 16:33:58,242 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-webmvc:5.3.13
+2023-04-05 16:33:58,246 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-aop:5.3.13
+2023-04-05 16:33:58,249 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-devtools:2.5.7
+2023-04-05 16:33:58,253 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot:2.5.7
+2023-04-05 16:33:58,256 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-autoconfigure:2.5.7
+2023-04-05 16:33:58,260 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-swagger2:2.9.2
+2023-04-05 16:33:58,264 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.swagger:swagger-annotations:1.5.20
+2023-04-05 16:33:58,268 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.swagger:swagger-models:1.5.20
+2023-04-05 16:33:58,272 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-annotations:2.12.5
+2023-04-05 16:33:58,275 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-spi:2.9.2
+2023-04-05 16:33:58,279 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-core:2.9.2
+2023-04-05 16:33:58,282 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-schema:2.9.2
+2023-04-05 16:33:58,286 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-swagger-common:2.9.2
+2023-04-05 16:33:58,289 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-spring-web:2.9.2
+2023-04-05 16:33:58,293 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.google.guava:guava:20.0
+2023-04-05 16:33:58,296 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml:classmate:1.5.1
+2023-04-05 16:33:58,300 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.slf4j:slf4j-api:1.7.32
+2023-04-05 16:33:58,303 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE
+2023-04-05 16:33:58,307 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.plugin:spring-plugin-metadata:1.2.0.RELEASE
+2023-04-05 16:33:58,311 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mapstruct:mapstruct:1.2.0.Final
+2023-04-05 16:33:58,314 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for io.springfox:springfox-swagger-ui:2.9.2
+2023-04-05 16:33:58,318 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.projectlombok:lombok:1.18.22
+2023-04-05 16:33:58,321 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-starter-test:2.5.7
+2023-04-05 16:33:58,325 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-test:2.5.7
+2023-04-05 16:33:58,329 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.boot:spring-boot-test-autoconfigure:2.5.7
+2023-04-05 16:33:58,332 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.jayway.jsonpath:json-path:2.5.0
+2023-04-05 16:33:58,336 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.minidev:json-smart:2.4.7
+2023-04-05 16:33:58,340 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.minidev:accessors-smart:2.4.7
+2023-04-05 16:33:58,343 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.ow2.asm:asm:9.1
+2023-04-05 16:33:58,347 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.xml.bind:jakarta.xml.bind-api:2.3.3
+2023-04-05 16:33:58,350 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for jakarta.activation:jakarta.activation-api:1.2.2
+2023-04-05 16:33:58,355 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.assertj:assertj-core:3.19.0
+2023-04-05 16:33:58,358 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.hamcrest:hamcrest:2.2
+2023-04-05 16:33:58,362 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter:5.7.2
+2023-04-05 16:33:58,365 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter-api:5.7.2
+2023-04-05 16:33:58,369 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apiguardian:apiguardian-api:1.1.0
+2023-04-05 16:33:58,373 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.opentest4j:opentest4j:1.2.0
+2023-04-05 16:33:58,377 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.platform:junit-platform-commons:1.7.2
+2023-04-05 16:33:58,381 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter-params:5.7.2
+2023-04-05 16:33:58,384 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.jupiter:junit-jupiter-engine:5.7.2
+2023-04-05 16:33:58,388 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.platform:junit-platform-engine:1.7.2
+2023-04-05 16:33:58,392 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mockito:mockito-core:3.9.0
+2023-04-05 16:33:58,396 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.bytebuddy:byte-buddy:1.10.22
+2023-04-05 16:33:58,399 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.bytebuddy:byte-buddy-agent:1.10.22
+2023-04-05 16:33:58,403 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.objenesis:objenesis:3.2
+2023-04-05 16:33:58,407 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mockito:mockito-junit-jupiter:3.9.0
+2023-04-05 16:33:58,410 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.skyscreamer:jsonassert:1.5.0
+2023-04-05 16:33:58,414 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.vaadin.external.google:android-json:0.0.20131108.vaadin1
+2023-04-05 16:33:58,417 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-core:5.3.13
+2023-04-05 16:33:58,422 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-jcl:5.3.13
+2023-04-05 16:33:58,426 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework:spring-test:5.3.13
+2023-04-05 16:33:58,430 [Worker-424: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.xmlunit:xmlunit-core:2.8.3
+2023-04-05 16:34:08,774 [Worker-427: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-05 16:34:09,114 [Worker-427: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.deloitte:Insurance-policy:0.0.1-SNAPSHOT @ C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-policy\pom.xml.
+2023-04-05 16:34:09,281 [Worker-427: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.deloitte:Insurance-User:0.0.1-SNAPSHOT @ C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\pom.xml.
+2023-04-05 16:34:10,043 [Worker-427: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-policy/src/main/java
+2023-04-05 16:34:10,043 [Worker-427: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-policy/src/main/resources
+2023-04-05 16:34:10,044 [Worker-427: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-policy/src/main/resources
+2023-04-05 16:34:10,044 [Worker-427: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-policy/src/test/java
+2023-04-05 16:34:10,477 [Worker-427: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/main/java
+2023-04-05 16:34:10,477 [Worker-427: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:34:10,477 [Worker-427: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:34:10,478 [Worker-427: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/test/java
+2023-04-05 16:34:11,046 [Worker-427: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-04-05 16:34:46,179 [Worker-434: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-05 16:34:46,325 [Worker-434: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.deloitte:Insurance-User:0.0.1-SNAPSHOT @ C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\pom.xml.
+2023-04-05 16:34:46,848 [Worker-434: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/main/java
+2023-04-05 16:34:46,849 [Worker-434: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:34:46,849 [Worker-434: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:34:46,850 [Worker-434: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/test/java
+2023-04-05 16:34:47,356 [Worker-434: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-05 16:34:52,896 [Worker-434: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User":
+2023-04-05 16:34:52,896 [Worker-434: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2023-04-05 16:34:52,896 [Worker-434: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-04-05 16:35:05,203 [Worker-407: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User":
+2023-04-05 16:35:05,203 [Worker-407: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2023-04-05 16:35:05,203 [Worker-407: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-04-05 16:35:40,476 [Worker-436: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-05 16:35:40,622 [Worker-436: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.deloitte:Insurance-User:0.0.1-SNAPSHOT @ C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\pom.xml.
+2023-04-05 16:35:41,163 [Worker-436: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/main/java
+2023-04-05 16:35:41,164 [Worker-436: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:35:41,164 [Worker-436: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Insurance-User/src/main/resources
+2023-04-05 16:35:41,164 [Worker-436: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Insurance-User/src/test/java
+2023-04-05 16:35:41,677 [Worker-436: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-05 16:35:48,649 [Worker-424: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User":
+2023-04-05 16:35:48,649 [Worker-424: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2023-04-05 16:35:48,650 [Worker-424: Launching Executing clean in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-04-05 16:35:55,712 [Worker-440: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User":
+2023-04-05 16:35:55,713 [Worker-440: Launching Executing install in C__Users_ponvg_Documents_TRAINING_SPRING TRAINING_Shadow-Insurance-Management_Insurance-User] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
