@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
 
 @Data
 @NoArgsConstructor
-@AllArgsConstructor
+@AllArgsConstructor 
 @Document(collection = "policies")
 public class Policy {
 	

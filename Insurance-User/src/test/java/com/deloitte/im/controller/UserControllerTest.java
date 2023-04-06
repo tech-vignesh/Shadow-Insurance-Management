@@ -21,6 +21,8 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 import org.mockito.junit.jupiter.MockitoExtension;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
@@ -33,6 +35,8 @@ import com.deloitte.im.service.UserService;
 
 @ExtendWith(MockitoExtension.class)
 class UserControllerTest {
+	
+	private static final Logger logger = LoggerFactory.getLogger(UserControllerTest.class);
 
 	@Mock
 	private UserService userService;
@@ -51,6 +55,7 @@ class UserControllerTest {
 	@Test
 	public void testCreateUser() throws Exception {
 
+		logger.info("Initializing the dummy Objects");
 		User user = new User();
 		Policy policy = new Policy();
 		policy.setId("456fgh567vgbh");

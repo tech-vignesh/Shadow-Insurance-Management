@@ -1,0 +1,24 @@
+<configuration>
+
+  <!-- Use the console appender for logging to the console -->
+  <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level %logger{36} - %msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <!-- Use the file appender for logging to the usercontrollertest.log file -->
+  <appender name="file" class="ch.qos.logback.core.FileAppender">
+    <file>${log.path}/usercontrollertest.log</file>
+    <encoder>
+      <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level %logger{36} - %msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <!-- Use the root logger to set the default logging level and appender -->
+  <root level="info">
+    <appender-ref ref="console" />
+    <appender-ref ref="file" />
+  </root>
+
+</configuration>

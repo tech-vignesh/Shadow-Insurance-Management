@@ -1,0 +1,14 @@
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=Insurance-portal
+server.port=4300
+spring.application.name=insurance-user
+policy.service.url = http://localhost:3200/policy
+spring.main.allow-bean-definition-overriding=true
+
+logging.level.com.deloitte.im.controller.UserControllerTest=DEBUG
+
+logging.file.name=usercontrollertest.log
+logging.file.path=/logs
+logging.file.max-size=10MB
+logging.file.max-history=5

@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.List;
 
 import javax.servlet.http.HttpServletResponse;
+import javax.validation.Valid;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -62,6 +63,7 @@ public class UserController {
 	public ResponseEntity<String> createUser(@RequestBody User user) {
 
 		try {
+			
 			logger.info("Creating user...");
 			ResponseEntity<String> response = userService.createUser(user);
 			return ResponseEntity.status(response.getStatusCode()).body(response.getBody());
@@ -110,7 +112,7 @@ public class UserController {
 			@ApiResponse(code = 500, message = "User service server error") })
 	public ResponseEntity<User> getUserById(@PathVariable String id) {
 
-		logger.info("Getting User with Id '{}'", id);
+		logger.info("Getting User with Id '{}'", id);  
 		ResponseEntity<User> response = userService.getUserById(id);
 		return ResponseEntity.status(response.getStatusCode()).body(response.getBody());
 
@@ -126,7 +128,7 @@ public class UserController {
 	@ApiResponses(value = { @ApiResponse(code = 200, message = "Successful updation of user"),
 			@ApiResponse(code = 404, message = "User not found"),
 			@ApiResponse(code = 500, message = "User service server error") })
-	public ResponseEntity<String> updateUser(@PathVariable String id, @RequestBody User user) {
+	public ResponseEntity<String> updateUser(@PathVariable String id, @Valid @RequestBody User user) {
 
 		try {
 			logger.info("Updating User with Id '{}'", id);

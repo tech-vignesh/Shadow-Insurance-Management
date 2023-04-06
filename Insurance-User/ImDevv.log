@@ -1,0 +1,56 @@
+2023-04-06 02:40:07.625  INFO 41856 --- [restartedMain] c.deloitte.im.InsuranceUserApplication   : Starting InsuranceUserApplication using Java 17.0.6 on USBLRPONVG1 with PID 41856 (C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\target\classes started by ponvg in C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User)
+2023-04-06 02:40:07.627  INFO 41856 --- [restartedMain] c.deloitte.im.InsuranceUserApplication   : The following profiles are active: devv
+2023-04-06 02:40:07.715  INFO 41856 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-06 02:40:07.716  INFO 41856 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-06 02:40:08.736  INFO 41856 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2023-04-06 02:40:08.822  INFO 41856 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 79 ms. Found 1 MongoDB repository interfaces.
+2023-04-06 02:40:09.792  INFO 41856 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3300 (http)
+2023-04-06 02:40:09.807  INFO 41856 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-06 02:40:09.808  INFO 41856 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-04-06 02:40:09.956  INFO 41856 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-06 02:40:09.957  INFO 41856 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2240 ms
+2023-04-06 02:40:10.242  INFO 41856 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2023-04-06 02:40:10.344  INFO 41856 --- [cluster-rtt-ClusterId{value='642de3b286ab9f7f9dbe0c7d', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:707}] to localhost:27017
+2023-04-06 02:40:10.344  INFO 41856 --- [cluster-ClusterId{value='642de3b286ab9f7f9dbe0c7d', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:706}] to localhost:27017
+2023-04-06 02:40:10.345  INFO 41856 --- [cluster-ClusterId{value='642de3b286ab9f7f9dbe0c7d', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=35252500}
+2023-04-06 02:40:10.542  INFO 41856 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-06 02:40:11.262  INFO 41856 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-04-06 02:40:11.725  INFO 41856 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3300 (http) with context path ''
+2023-04-06 02:40:11.727  INFO 41856 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2023-04-06 02:40:11.760  INFO 41856 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2023-04-06 02:40:11.814  INFO 41856 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2023-04-06 02:40:12.044  INFO 41856 --- [restartedMain] c.deloitte.im.InsuranceUserApplication   : Started InsuranceUserApplication in 5.09 seconds (JVM running for 6.502)
+2023-04-06 02:40:27.484  INFO 41856 --- [http-nio-3300-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-06 02:40:27.485  INFO 41856 --- [http-nio-3300-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-06 02:40:27.488  INFO 41856 --- [http-nio-3300-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-04-06 02:41:23.738  INFO 41856 --- [http-nio-3300-exec-10] c.deloitte.im.controller.UserController  : Creating user...
+2023-04-06 02:41:23.867  INFO 41856 --- [http-nio-3300-exec-10] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:3, serverValue:708}] to localhost:27017
+2023-04-06 02:41:23.955  WARN 41856 --- [http-nio-3300-exec-10] com.deloitte.im.service.UserServiceImpl  : Found existing User
+2023-04-06 02:41:23.956 ERROR 41856 --- [http-nio-3300-exec-10] c.deloitte.im.controller.UserController  : User not created - Existing User
+2023-04-06 02:41:40.792  INFO 41856 --- [http-nio-3300-exec-8] c.deloitte.im.controller.UserController  : Creating user...
+2023-04-06 02:41:40.953  INFO 41856 --- [http-nio-3300-exec-8] com.deloitte.im.service.UserServiceImpl  : User Created
+2023-04-06 02:42:55.796  INFO 41856 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-06 02:42:55.847  INFO 41856 --- [RMI TCP Connection(11)-127.0.0.1] org.mongodb.driver.connection            : Closed connection [connectionId{localValue:3, serverValue:708}] to localhost:27017 because the pool has been closed.
+2023-04-06 03:03:48.600  INFO 41348 --- [restartedMain] c.deloitte.im.InsuranceUserApplication   : Starting InsuranceUserApplication using Java 17.0.6 on USBLRPONVG1 with PID 41348 (C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User\target\classes started by ponvg in C:\Users\ponvg\Documents\TRAINING\SPRING TRAINING\Shadow-Insurance-Management\Insurance-User)
+2023-04-06 03:03:48.602  INFO 41348 --- [restartedMain] c.deloitte.im.InsuranceUserApplication   : The following profiles are active: devv
+2023-04-06 03:03:48.685  INFO 41348 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-06 03:03:48.686  INFO 41348 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-06 03:03:49.701  INFO 41348 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2023-04-06 03:03:49.793  INFO 41348 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 84 ms. Found 1 MongoDB repository interfaces.
+2023-04-06 03:03:50.808  INFO 41348 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3300 (http)
+2023-04-06 03:03:50.823  INFO 41348 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-06 03:03:50.824  INFO 41348 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-04-06 03:03:50.977  INFO 41348 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-06 03:03:50.978  INFO 41348 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2291 ms
+2023-04-06 03:03:51.255  INFO 41348 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2023-04-06 03:03:51.346  INFO 41348 --- [cluster-rtt-ClusterId{value='642de93f77aee675713fc8b0', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:722}] to localhost:27017
+2023-04-06 03:03:51.346  INFO 41348 --- [cluster-ClusterId{value='642de93f77aee675713fc8b0', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:721}] to localhost:27017
+2023-04-06 03:03:51.347  INFO 41348 --- [cluster-ClusterId{value='642de93f77aee675713fc8b0', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=30412700}
+2023-04-06 03:03:51.552  INFO 41348 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-06 03:03:52.247  INFO 41348 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-04-06 03:03:52.665  INFO 41348 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3300 (http) with context path ''
+2023-04-06 03:03:52.667  INFO 41348 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2023-04-06 03:03:52.698  INFO 41348 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2023-04-06 03:03:52.748  INFO 41348 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2023-04-06 03:03:52.973  INFO 41348 --- [restartedMain] c.deloitte.im.InsuranceUserApplication   : Started InsuranceUserApplication in 5.037 seconds (JVM running for 6.462)
+2023-04-06 03:04:45.060  INFO 41348 --- [RMI TCP Connection(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.

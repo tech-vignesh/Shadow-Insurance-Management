@@ -2,6 +2,7 @@ package com.deloitte.im.service;
 
 import java.util.List;
 import java.util.Optional;
+import java.util.stream.Collectors;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -39,7 +40,7 @@ public class UserServiceImpl implements UserService {
 		if (existingUser != null) {
 			logger.warn("Found existing User");
 			throw new UserAlreadyExistException(user.getEmail());
-		}
+		} 
 		userRepository.save(user);
 		logger.info("User Created");
 		return ResponseEntity.ok("User added with ID : " + user.getId());
@@ -47,7 +48,7 @@ public class UserServiceImpl implements UserService {
 
 	@Override
 	public ResponseEntity<List<User>> getAllUsers() {
-		List<User> lst = userRepository.findAll();
+		List<User> lst = userRepository.findAll().stream().collect(Collectors.toList());
 		return ResponseEntity.ok(lst);
 	}
 
@@ -106,11 +107,12 @@ public class UserServiceImpl implements UserService {
 			logger.error("policy {} not found", policyId); 
 			throw new UserServiceException("Policy with Id " + policyId + " not found!");
 		}
-
+		System.out.println(user.getPolicies() == policy);
+		
 		if (user.getPolicies().contains(policy)) {
 			logger.error("Existing policy of User {}", userId);
 			return new ResponseEntity<>(
-					"Policy with Id " + policyId + " is already added to user with Id " + userId + "!",
+					"Policy with Id " + policyId + " is already added to user with Id " + userId + " !",
 					HttpStatus.BAD_REQUEST); 
 		}
 

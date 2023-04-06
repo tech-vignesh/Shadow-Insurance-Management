@@ -9,12 +9,14 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.AllArgsConstructor;
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Getter
 @Setter
+@EqualsAndHashCode
 @NoArgsConstructor
 @AllArgsConstructor
 @ApiModel(description = "User definition")
@@ -22,7 +24,7 @@ import lombok.Setter;
 public class Policy {
 	
 	@Id
-	private String id;
+	private String id; 
 	
 	@ApiModelProperty(hidden=true)
 	private String policyNumber;
@@ -34,6 +36,8 @@ public class Policy {
 	private Date startDate;
 	@ApiModelProperty(hidden=true)
 	private Date endDate;
+	
+	
 	
 	
 	

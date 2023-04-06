@@ -1,0 +1,3 @@
+server.port = 3200
+
+policy.service.url = http://localhost:3200/policy

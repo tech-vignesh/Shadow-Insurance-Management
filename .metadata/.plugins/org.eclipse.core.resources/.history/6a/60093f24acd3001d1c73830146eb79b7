@@ -1,0 +1,5 @@
+package com.deloitte.im.exception;
+
+public class GlobalExceptionHandler {
+
+}

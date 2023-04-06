@@ -28,7 +28,7 @@ public class SwaggerConfig {
 	@Bean
 	public ApiInfo apiInfo() {
 		final ApiInfoBuilder builder = new ApiInfoBuilder();
-		return builder.title("Vicky's Insurance Management Portal").version("1.0.0").description(
+		return builder.title("Insurance Management Portal").version("1.0.0").description(
 				"This website provides an API for managing insurance Users, allowing users to perform CRUD operations on entities such as policies and Users")
 				.build();
 	}

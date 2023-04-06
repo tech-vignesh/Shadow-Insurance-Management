@@ -28,7 +28,7 @@ import lombok.Setter;
 @Document(collection = "users")
 public class User {
 
-	@ApiModelProperty(notes = "Unique Id of user", position = 1)
+	@ApiModelProperty(notes = "Unique Id of user", hidden=true, position = 1)
 	@Id
 	private String id; 
 	
@@ -38,29 +38,29 @@ public class User {
 	@NotBlank(message = "First name cannot be empty")
 	private String firstName;
 	
-	@ApiModelProperty(notes = "Last name of the user")
+	@ApiModelProperty(notes = "Last name of the user", position = 3)
 	@Pattern(regexp = "^[A-Za-z]*$",message = "Only alphabets are allowed!!")
 	@Size(min=1, max=50, message="lastname should be between 1-50 characters")
 	@NotBlank(message = "Last name cannot be empty")
 	private String lastName;
 	
-	@ApiModelProperty(notes = "Email of the user")
+	@ApiModelProperty(notes = "Email of the user", position = 4)
 	@NotNull(message = "Email Cannot be null") 
 	@Email(message="Email not in format")
-	private String email;
+	private String email; 
 	
-	@ApiModelProperty(notes = "Phone number of the user")
+	@ApiModelProperty(notes = "Phone number of the user",position = 5)
 	@NotNull(message = "Phone number Cannot be null") 
 	@Pattern(regexp = "^[0-9]*$", message = "Phone number should be numeric")
 	@Size(min=10,max=10,message = "Phone number should have 10 characters") 
 	private String phone;
 	
-	@ApiModelProperty(notes = "Address of the user")
+	@ApiModelProperty(notes = "Address of the user",position = 6)
 	@NotEmpty(message = "Address Cannot be null")
 	private String address;
 	
 	@DBRef
-	@ApiModelProperty(notes = "List of policies of user")
+	@ApiModelProperty(notes = "List of policies of user",position = 7)
 	@NotNull(message = "A user should have atleast one policy")
 	private List<Policy> policies;
 	
